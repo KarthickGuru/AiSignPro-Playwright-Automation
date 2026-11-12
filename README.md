@@ -31,7 +31,7 @@ npm install
 
 **Run the automation:**
 ```bash
-npx playwright test --headed --workers=1
+npx playwright test aisignpro.spec.ts
 ```
 
 **View the HTML report:**
